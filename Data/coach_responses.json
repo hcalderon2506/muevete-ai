@@ -1,0 +1,112 @@
+[
+  {
+    "Response_ID": "CO-001",
+    "Intención": "Cansancio",
+    "Entrada/trigger": "estoy cansado / agotado",
+    "Nivel": "Todos",
+    "Energía": "Baja",
+    "Respuesta": "Hoy no necesitas entrenar al máximo. Podemos hacer una versión corta y suave para mantener el hábito.",
+    "Acción sugerida": "Reducir intensidad y duración.",
+    "Pregunta de seguimiento": "¿Cuántos minutos tienes hoy?",
+    "Safety": "Normal"
+  },
+  {
+    "Response_ID": "CO-002",
+    "Intención": "Poco tiempo",
+    "Entrada/trigger": "no tengo tiempo",
+    "Nivel": "Todos",
+    "Energía": "Todos",
+    "Respuesta": "Podemos convertir la sesión en una versión mínima. La meta de hoy es hacer algo sostenible, no completar una rutina perfecta.",
+    "Acción sugerida": "Sesión de 10–15 min.",
+    "Pregunta de seguimiento": "¿Prefieres movilidad, fuerza o caminata?",
+    "Safety": "Normal"
+  },
+  {
+    "Response_ID": "CO-003",
+    "Intención": "Motivación",
+    "Entrada/trigger": "no tengo ganas",
+    "Nivel": "Todos",
+    "Energía": "Todos",
+    "Respuesta": "No necesitas sentirte motivado para empezar. Hagamos una sesión pequeña y decide después si quieres continuar.",
+    "Acción sugerida": "Comenzar con 5 minutos.",
+    "Pregunta de seguimiento": "¿Te animas a empezar solo con 5 minutos?",
+    "Safety": "Normal"
+  },
+  {
+    "Response_ID": "CO-004",
+    "Intención": "Aburrimiento",
+    "Entrada/trigger": "me aburre",
+    "Nivel": "Todos",
+    "Energía": "Todos",
+    "Respuesta": "Podemos cambiar el formato. Elegir una actividad que disfrutes puede ayudarte a mantener la continuidad.",
+    "Acción sugerida": "Cambiar actividad o entorno.",
+    "Pregunta de seguimiento": "¿Qué actividad disfrutas más?",
+    "Safety": "Normal"
+  },
+  {
+    "Response_ID": "CO-005",
+    "Intención": "Dolor",
+    "Entrada/trigger": "me duele / dolor",
+    "Nivel": "Todos",
+    "Energía": "Todos",
+    "Respuesta": "Si tienes dolor, no quiero indicarte una rutina específica sin saber qué ocurre. Lo más prudente es detener la actividad que causa dolor y consultar a un profesional.",
+    "Acción sugerida": "No prescribir rutina específica.",
+    "Pregunta de seguimiento": "¿El dolor apareció durante la actividad o ya estaba presente?",
+    "Safety": "Derivar"
+  },
+  {
+    "Response_ID": "CO-006",
+    "Intención": "Lesión",
+    "Entrada/trigger": "tengo una lesión",
+    "Nivel": "Todos",
+    "Energía": "Todos",
+    "Respuesta": "Para una lesión, el plan debe individualizarse. Antes de seguir con ejercicios específicos, consulta a un profesional de salud.",
+    "Acción sugerida": "No prescribir.",
+    "Pregunta de seguimiento": "¿Tienes indicaciones profesionales sobre qué movimientos puedes realizar?",
+    "Safety": "Derivar"
+  },
+  {
+    "Response_ID": "CO-007",
+    "Intención": "Plan",
+    "Entrada/trigger": "dame un plan",
+    "Nivel": "Inicial",
+    "Energía": "Moderada",
+    "Respuesta": "Podemos crear un plan inicial de sesiones cortas, centrado en constancia y movimientos básicos.",
+    "Acción sugerida": "Crear 2 sesiones semanales.",
+    "Pregunta de seguimiento": "¿Tienes 10, 20 o 30 minutos por sesión?",
+    "Safety": "Normal"
+  },
+  {
+    "Response_ID": "CO-008",
+    "Intención": "Progreso",
+    "Entrada/trigger": "quiero mejorar",
+    "Nivel": "En desarrollo",
+    "Energía": "Moderada",
+    "Respuesta": "Podemos progresar poco a poco. Primero revisemos frecuencia, dificultad percibida y recuperación.",
+    "Acción sugerida": "Progresión de una variable.",
+    "Pregunta de seguimiento": "¿Cómo sentiste la última sesión del 1 al 10?",
+    "Safety": "Normal"
+  },
+  {
+    "Response_ID": "CO-009",
+    "Intención": "Felicitar",
+    "Entrada/trigger": "lo hice",
+    "Nivel": "Todos",
+    "Energía": "Todos",
+    "Respuesta": "¡Bien hecho! Registrar la sesión también cuenta porque nos permite ver tu constancia.",
+    "Acción sugerida": "Registrar sesión.",
+    "Pregunta de seguimiento": "¿Cómo fue la dificultad del 1 al 10?",
+    "Safety": "Normal"
+  },
+  {
+    "Response_ID": "CO-010",
+    "Intención": "No completó",
+    "Entrada/trigger": "no hice ejercicio",
+    "Nivel": "Todos",
+    "Energía": "Todos",
+    "Respuesta": "No pasa nada. En lugar de castigarte, identifiquemos qué te lo impidió y ajustemos el plan.",
+    "Acción sugerida": "Detectar barrera.",
+    "Pregunta de seguimiento": "¿Fue falta de tiempo, energía, motivación o acceso?",
+    "Safety": "Normal"
+  }
+]

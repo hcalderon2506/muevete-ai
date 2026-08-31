@@ -1,0 +1,178 @@
+[
+  {
+    "Regla_ID": "R-001",
+    "Condición": "Dolor/lesión = Sí",
+    "Acción": "No generar rutina específica; recomendar evaluación profesional antes de continuar.",
+    "Prioridad": "Crítica",
+    "Justificación / criterio": "Seguridad; no convertir el MVP en herramienta clínica.",
+    "Fuente": "SRC-04"
+  },
+  {
+    "Regla_ID": "R-002",
+    "Condición": "Condición médica relevante = Sí",
+    "Acción": "Solicitar orientación profesional antes de prescribir ejercicio específico.",
+    "Prioridad": "Crítica",
+    "Justificación / criterio": "La actividad debe adaptarse a condiciones individuales.",
+    "Fuente": "SRC-04"
+  },
+  {
+    "Regla_ID": "R-003",
+    "Condición": "Energía = Baja",
+    "Acción": "Reducir duración/intensidad; priorizar movilidad, caminata suave o sesión mínima viable.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Favorece continuidad sin forzar una carga innecesaria.",
+    "Fuente": "SRC-02"
+  },
+  {
+    "Regla_ID": "R-004",
+    "Condición": "Motivación = Baja",
+    "Acción": "Reducir fricción: objetivo pequeño, elección entre 2 opciones y lenguaje no culpabilizante.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Intervención orientada a adherencia.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-005",
+    "Condición": "Tiempo = 10 min",
+    "Acción": "Crear sesión mínima viable con calentamiento breve + bloque simple + cierre.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Toda actividad cuenta; el volumen puede acumularse.",
+    "Fuente": "SRC-01"
+  },
+  {
+    "Regla_ID": "R-006",
+    "Condición": "Tiempo = 15 min",
+    "Acción": "Usar sesión compacta de 3 bloques.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Facilita incorporar actividad a agendas ajustadas.",
+    "Fuente": "SRC-03"
+  },
+  {
+    "Regla_ID": "R-007",
+    "Condición": "Frecuencia actual = 0 días",
+    "Acción": "Empezar con 2 sesiones semanales como objetivo inicial del programa, no como meta clínica universal.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Decisión de diseño del MVP; requiere validación en piloto.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-008",
+    "Condición": "Frecuencia actual = 1 día",
+    "Acción": "Proponer 2–3 sesiones semanales según energía y tiempo.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Progresión conservadora de adherencia.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-009",
+    "Condición": "Frecuencia actual = 2–3 días",
+    "Acción": "Mantener 3 sesiones como base y progresar si la adherencia es estable.",
+    "Prioridad": "Media",
+    "Justificación / criterio": "Regla de diseño del MVP.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-010",
+    "Condición": "Frecuencia actual = 4+ días",
+    "Acción": "Evitar aumentar automáticamente; priorizar recuperación y calidad.",
+    "Prioridad": "Media",
+    "Justificación / criterio": "Más no siempre implica mejor ajuste individual.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-011",
+    "Condición": "Dificultad post-sesión ≥ 9",
+    "Acción": "Reducir volumen/intensidad en la próxima sesión y revisar técnica/recuperación.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Regla de seguridad operativa del MVP.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-012",
+    "Condición": "Dificultad post-sesión ≤ 3 y satisfacción ≥ 4",
+    "Acción": "Considerar progresión pequeña en la siguiente sesión si no hay señales de riesgo.",
+    "Prioridad": "Media",
+    "Justificación / criterio": "Progresión gradual; no es prescripción clínica.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-013",
+    "Condición": "Sesión = Parcial",
+    "Acción": "Registrar minutos realizados y evitar clasificarlo como fracaso.",
+    "Prioridad": "Media",
+    "Justificación / criterio": "Favorece seguimiento realista.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-014",
+    "Condición": "Sesión = No",
+    "Acción": "Explorar barrera principal y ofrecer una alternativa de menor fricción.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Objetivo conductual: recuperar continuidad.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-015",
+    "Condición": "Objetivo = Crear hábito",
+    "Acción": "Priorizar consistencia, sesiones cortas y actividades agradables.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Diseño de intervención.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-016",
+    "Condición": "Objetivo = Condición",
+    "Acción": "Combinar aeróbico y fortalecimiento de forma progresiva.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Alineado con componentes generales de actividad física.",
+    "Fuente": "SRC-01"
+  },
+  {
+    "Regla_ID": "R-017",
+    "Condición": "Objetivo = Fuerza",
+    "Acción": "Priorizar patrones básicos de movimiento y fortalecimiento de grandes grupos musculares.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Alineado con fortalecimiento muscular.",
+    "Fuente": "SRC-01"
+  },
+  {
+    "Regla_ID": "R-018",
+    "Condición": "Objetivo = Estrés-bienestar",
+    "Acción": "Priorizar actividades agradables y sostenibles; no prometer efectos terapéuticos.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Actividad física apoya bienestar, pero no sustituye atención de salud mental.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-019",
+    "Condición": "Objetivo = Energía",
+    "Acción": "Preferir sesiones moderadas y sostenibles; evitar prometer aumento inmediato de energía.",
+    "Prioridad": "Media",
+    "Justificación / criterio": "Lenguaje prudente.",
+    "Fuente": null
+  },
+  {
+    "Regla_ID": "R-020",
+    "Condición": "Usuario inactivo + desea actividad vigorosa",
+    "Acción": "No empezar directamente con alta exigencia; construir progresión y, si corresponde, consultar profesional.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "CDC recomienda precaución antes de actividad vigorosa en personas inactivas.",
+    "Fuente": "SRC-04"
+  },
+  {
+    "Regla_ID": "R-021",
+    "Condición": "Meta semanal",
+    "Acción": "Usar 150–300 min moderados o equivalente vigoroso como referencia de salud pública para adultos.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Referencia internacional.",
+    "Fuente": "SRC-01"
+  },
+  {
+    "Regla_ID": "R-022",
+    "Condición": "Fortalecimiento",
+    "Acción": "Buscar 2+ días/semana como referencia general en adultos.",
+    "Prioridad": "Alta",
+    "Justificación / criterio": "Referencia internacional.",
+    "Fuente": "SRC-01"
+  }
+]

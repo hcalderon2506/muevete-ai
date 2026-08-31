@@ -1,0 +1,826 @@
+[
+  {
+    "Keyword_ID": "KW-0001",
+    "Intent_ID": "plan",
+    "Intención": "plan",
+    "Keyword": "plan",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0002",
+    "Intent_ID": "plan",
+    "Intención": "plan",
+    "Keyword": "rutina",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0003",
+    "Intent_ID": "plan",
+    "Intención": "plan",
+    "Keyword": "entrenamiento",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0004",
+    "Intent_ID": "plan",
+    "Intención": "plan",
+    "Keyword": "sesión",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0005",
+    "Intent_ID": "plan",
+    "Intención": "plan",
+    "Keyword": "sesion",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0006",
+    "Intent_ID": "ejercicio",
+    "Intención": "ejercicio",
+    "Keyword": "ejercicio",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0007",
+    "Intent_ID": "ejercicio",
+    "Intención": "ejercicio",
+    "Keyword": "movimiento",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0008",
+    "Intent_ID": "tecnica",
+    "Intención": "técnica",
+    "Keyword": "cómo hago",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0009",
+    "Intent_ID": "tecnica",
+    "Intención": "técnica",
+    "Keyword": "como hago",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0010",
+    "Intent_ID": "tecnica",
+    "Intención": "técnica",
+    "Keyword": "técnica",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0011",
+    "Intent_ID": "tecnica",
+    "Intención": "técnica",
+    "Keyword": "tecnica",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0012",
+    "Intent_ID": "tecnica",
+    "Intención": "técnica",
+    "Keyword": "hacerlo",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0013",
+    "Intent_ID": "tecnica",
+    "Intención": "técnica",
+    "Keyword": "posición",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0014",
+    "Intent_ID": "tecnica",
+    "Intención": "técnica",
+    "Keyword": "posicion",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0015",
+    "Intent_ID": "series",
+    "Intención": "series",
+    "Keyword": "serie",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0016",
+    "Intent_ID": "series",
+    "Intención": "series",
+    "Keyword": "series",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0017",
+    "Intent_ID": "repeticiones",
+    "Intención": "repeticiones",
+    "Keyword": "repetición",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0018",
+    "Intent_ID": "repeticiones",
+    "Intención": "repeticiones",
+    "Keyword": "repeticiones",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0019",
+    "Intent_ID": "repeticiones",
+    "Intención": "repeticiones",
+    "Keyword": "reps",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0020",
+    "Intent_ID": "descanso",
+    "Intención": "descanso",
+    "Keyword": "descanso",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0021",
+    "Intent_ID": "descanso",
+    "Intención": "descanso",
+    "Keyword": "descansar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0022",
+    "Intent_ID": "descanso",
+    "Intención": "descanso",
+    "Keyword": "pausa",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0023",
+    "Intent_ID": "calentamiento",
+    "Intención": "calentamiento",
+    "Keyword": "calentar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0024",
+    "Intent_ID": "calentamiento",
+    "Intención": "calentamiento",
+    "Keyword": "calentamiento",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0025",
+    "Intent_ID": "calentamiento",
+    "Intención": "calentamiento",
+    "Keyword": "calenté",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0026",
+    "Intent_ID": "calentamiento",
+    "Intención": "calentamiento",
+    "Keyword": "calente",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0027",
+    "Intent_ID": "progresion",
+    "Intención": "progresión",
+    "Keyword": "progresar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0028",
+    "Intent_ID": "progresion",
+    "Intención": "progresión",
+    "Keyword": "progreso",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0029",
+    "Intent_ID": "progresion",
+    "Intención": "progresión",
+    "Keyword": "subir",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0030",
+    "Intent_ID": "progresion",
+    "Intención": "progresión",
+    "Keyword": "aumentar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0031",
+    "Intent_ID": "progresion",
+    "Intención": "progresión",
+    "Keyword": "mejorar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0032",
+    "Intent_ID": "cansancio",
+    "Intención": "cansancio",
+    "Keyword": "cansado",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0033",
+    "Intent_ID": "cansancio",
+    "Intención": "cansancio",
+    "Keyword": "cansada",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0034",
+    "Intent_ID": "cansancio",
+    "Intención": "cansancio",
+    "Keyword": "agotado",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0035",
+    "Intent_ID": "cansancio",
+    "Intención": "cansancio",
+    "Keyword": "agotada",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0036",
+    "Intent_ID": "cansancio",
+    "Intención": "cansancio",
+    "Keyword": "fatiga",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0037",
+    "Intent_ID": "baja_energia",
+    "Intención": "energía baja",
+    "Keyword": "poca energía",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0038",
+    "Intent_ID": "baja_energia",
+    "Intención": "energía baja",
+    "Keyword": "poca energia",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0039",
+    "Intent_ID": "baja_energia",
+    "Intención": "energía baja",
+    "Keyword": "baja energía",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0040",
+    "Intent_ID": "baja_energia",
+    "Intención": "energía baja",
+    "Keyword": "baja energia",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0041",
+    "Intent_ID": "tiempo",
+    "Intención": "tiempo",
+    "Keyword": "tiempo",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0042",
+    "Intent_ID": "tiempo",
+    "Intención": "tiempo",
+    "Keyword": "minutos",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0043",
+    "Intent_ID": "tiempo",
+    "Intención": "tiempo",
+    "Keyword": "rápido",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0044",
+    "Intent_ID": "tiempo",
+    "Intención": "tiempo",
+    "Keyword": "rapido",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0045",
+    "Intent_ID": "motivacion",
+    "Intención": "motivación",
+    "Keyword": "ganas",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0046",
+    "Intent_ID": "motivacion",
+    "Intención": "motivación",
+    "Keyword": "motivación",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0047",
+    "Intent_ID": "motivacion",
+    "Intención": "motivación",
+    "Keyword": "motivacion",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0048",
+    "Intent_ID": "motivacion",
+    "Intención": "motivación",
+    "Keyword": "pereza",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0049",
+    "Intent_ID": "motivacion",
+    "Intención": "motivación",
+    "Keyword": "no quiero",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0050",
+    "Intent_ID": "aburrimiento",
+    "Intención": "aburrimiento",
+    "Keyword": "aburre",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0051",
+    "Intent_ID": "aburrimiento",
+    "Intención": "aburrimiento",
+    "Keyword": "aburrido",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0052",
+    "Intent_ID": "aburrimiento",
+    "Intención": "aburrimiento",
+    "Keyword": "aburrida",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0053",
+    "Intent_ID": "dolor",
+    "Intención": "dolor",
+    "Keyword": "dolor",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0054",
+    "Intent_ID": "dolor",
+    "Intención": "dolor",
+    "Keyword": "duele",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0055",
+    "Intent_ID": "dolor",
+    "Intención": "dolor",
+    "Keyword": "me duele",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0056",
+    "Intent_ID": "lesion",
+    "Intención": "lesión",
+    "Keyword": "lesión",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0057",
+    "Intent_ID": "lesion",
+    "Intención": "lesión",
+    "Keyword": "lesion",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0058",
+    "Intent_ID": "lesion",
+    "Intención": "lesión",
+    "Keyword": "lesionado",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0059",
+    "Intent_ID": "lesion",
+    "Intención": "lesión",
+    "Keyword": "lesionada",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0060",
+    "Intent_ID": "mareo",
+    "Intención": "mareo",
+    "Keyword": "mareo",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0061",
+    "Intent_ID": "mareo",
+    "Intención": "mareo",
+    "Keyword": "mareado",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0062",
+    "Intent_ID": "mareo",
+    "Intención": "mareo",
+    "Keyword": "mareada",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0063",
+    "Intent_ID": "pecho",
+    "Intención": "dolor pecho",
+    "Keyword": "pecho",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0064",
+    "Intent_ID": "pecho",
+    "Intención": "dolor pecho",
+    "Keyword": "dolor en el pecho",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0065",
+    "Intent_ID": "respiracion",
+    "Intención": "respiración",
+    "Keyword": "no puedo respirar",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0066",
+    "Intent_ID": "respiracion",
+    "Intención": "respiración",
+    "Keyword": "me cuesta respirar",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0067",
+    "Intent_ID": "respiracion",
+    "Intención": "respiración",
+    "Keyword": "falta de aire",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0068",
+    "Intent_ID": "salud",
+    "Intención": "salud",
+    "Keyword": "enfermedad",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0069",
+    "Intent_ID": "salud",
+    "Intención": "salud",
+    "Keyword": "condición médica",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0070",
+    "Intent_ID": "salud",
+    "Intención": "salud",
+    "Keyword": "condicion medica",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0071",
+    "Intent_ID": "salud",
+    "Intención": "salud",
+    "Keyword": "salud",
+    "Prioridad": "CRÍTICA",
+    "Acción": "DERIVAR"
+  },
+  {
+    "Keyword_ID": "KW-0072",
+    "Intent_ID": "fuerza",
+    "Intención": "fuerza",
+    "Keyword": "fuerza",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0073",
+    "Intent_ID": "fuerza",
+    "Intención": "fuerza",
+    "Keyword": "pesas",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0074",
+    "Intent_ID": "fuerza",
+    "Intención": "fuerza",
+    "Keyword": "músculo",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0075",
+    "Intent_ID": "fuerza",
+    "Intención": "fuerza",
+    "Keyword": "musculo",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0076",
+    "Intent_ID": "cardio",
+    "Intención": "cardio",
+    "Keyword": "cardio",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0077",
+    "Intent_ID": "cardio",
+    "Intención": "cardio",
+    "Keyword": "correr",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0078",
+    "Intent_ID": "cardio",
+    "Intención": "cardio",
+    "Keyword": "caminar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0079",
+    "Intent_ID": "cardio",
+    "Intención": "cardio",
+    "Keyword": "bicicleta",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0080",
+    "Intent_ID": "movilidad",
+    "Intención": "movilidad",
+    "Keyword": "movilidad",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0081",
+    "Intent_ID": "movilidad",
+    "Intención": "movilidad",
+    "Keyword": "estirar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0082",
+    "Intent_ID": "movilidad",
+    "Intención": "movilidad",
+    "Keyword": "estiramiento",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0083",
+    "Intent_ID": "funcional",
+    "Intención": "funcional",
+    "Keyword": "funcional",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0084",
+    "Intent_ID": "frecuencia",
+    "Intención": "frecuencia",
+    "Keyword": "cuántos días",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0085",
+    "Intent_ID": "frecuencia",
+    "Intención": "frecuencia",
+    "Keyword": "cuantos dias",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0086",
+    "Intent_ID": "frecuencia",
+    "Intención": "frecuencia",
+    "Keyword": "frecuencia",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0087",
+    "Intent_ID": "frecuencia",
+    "Intención": "frecuencia",
+    "Keyword": "días por semana",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0088",
+    "Intent_ID": "frecuencia",
+    "Intención": "frecuencia",
+    "Keyword": "dias por semana",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0089",
+    "Intent_ID": "inicio",
+    "Intención": "empezar",
+    "Keyword": "empezar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0090",
+    "Intent_ID": "inicio",
+    "Intención": "empezar",
+    "Keyword": "comenzar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0091",
+    "Intent_ID": "inicio",
+    "Intención": "empezar",
+    "Keyword": "nunca entreno",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0092",
+    "Intent_ID": "inicio",
+    "Intención": "empezar",
+    "Keyword": "nunca hago",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0093",
+    "Intent_ID": "reinicio",
+    "Intención": "reiniciar",
+    "Keyword": "volver",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0094",
+    "Intent_ID": "reinicio",
+    "Intención": "reiniciar",
+    "Keyword": "retomar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0095",
+    "Intent_ID": "reinicio",
+    "Intención": "reiniciar",
+    "Keyword": "reiniciar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0096",
+    "Intent_ID": "seguimiento",
+    "Intención": "seguimiento",
+    "Keyword": "registrar",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0097",
+    "Intent_ID": "seguimiento",
+    "Intención": "seguimiento",
+    "Keyword": "registro",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0098",
+    "Intent_ID": "seguimiento",
+    "Intención": "seguimiento",
+    "Keyword": "seguimiento",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0099",
+    "Intent_ID": "feedback",
+    "Intención": "feedback",
+    "Keyword": "por qué preguntas",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0100",
+    "Intent_ID": "feedback",
+    "Intención": "feedback",
+    "Keyword": "porque preguntas",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0101",
+    "Intent_ID": "feedback",
+    "Intención": "feedback",
+    "Keyword": "feedback",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0102",
+    "Intent_ID": "feedback",
+    "Intención": "feedback",
+    "Keyword": "satisfacción",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  },
+  {
+    "Keyword_ID": "KW-0103",
+    "Intent_ID": "feedback",
+    "Intención": "feedback",
+    "Keyword": "satisfaccion",
+    "Prioridad": "NORMAL",
+    "Acción": "BUSCAR_RESPUESTA"
+  }
+]

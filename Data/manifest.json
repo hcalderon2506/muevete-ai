@@ -1,0 +1,17 @@
+{
+  "name": "MUÉVETE AI Knowledge Base",
+  "version": "1.0",
+  "audience": "Jóvenes de 20 a 29 años",
+  "recommendation_count": 12501,
+  "files": [
+    "variables.json",
+    "rules.json",
+    "exercises.json",
+    "sessions.json",
+    "coach_responses.json",
+    "recommendations.json",
+    "evaluation.json",
+    "safety.json"
+  ],
+  "note": "Combinaciones de reglas y contenido del MVP; validar antes de uso con participantes."
+}

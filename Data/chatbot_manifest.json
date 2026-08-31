@@ -1,0 +1,8 @@
+{
+  "name": "MUÉVETE AI Chatbot Knowledge Base",
+  "version": "1.0",
+  "interaction_count": 40000,
+  "keyword_count": 103,
+  "safety_priority": "critical",
+  "note": "Combinaciones controladas; validar antes de uso real."
+}

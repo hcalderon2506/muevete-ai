@@ -1,0 +1,92 @@
+[
+  {
+    "Metric_ID": "MET-01",
+    "Indicador": "Frecuencia semanal",
+    "Cómo se mide": "Días con actividad registrada",
+    "Momento": "Semanal",
+    "Objetivo de uso": "Ver cambio conductual",
+    "Fórmula / criterio": "Días activos / semana",
+    "Tipo": "Resultado"
+  },
+  {
+    "Metric_ID": "MET-02",
+    "Indicador": "Minutos semanales",
+    "Cómo se mide": "Minutos registrados",
+    "Momento": "Semanal",
+    "Objetivo de uso": "Ver volumen acumulado",
+    "Fórmula / criterio": "Suma de minutos",
+    "Tipo": "Resultado"
+  },
+  {
+    "Metric_ID": "MET-03",
+    "Indicador": "Adherencia",
+    "Cómo se mide": "Sesiones realizadas vs. plan",
+    "Momento": "Semanal",
+    "Objetivo de uso": "Ver cumplimiento",
+    "Fórmula / criterio": "Sesiones realizadas / sesiones planificadas × 100",
+    "Tipo": "Resultado"
+  },
+  {
+    "Metric_ID": "MET-04",
+    "Indicador": "Satisfacción",
+    "Cómo se mide": "Escala 1–5 post-sesión",
+    "Momento": "Cada sesión",
+    "Objetivo de uso": "Evaluar experiencia",
+    "Fórmula / criterio": "Promedio",
+    "Tipo": "Experiencia"
+  },
+  {
+    "Metric_ID": "MET-05",
+    "Indicador": "Dificultad",
+    "Cómo se mide": "Escala 1–10",
+    "Momento": "Cada sesión",
+    "Objetivo de uso": "Ajustar carga",
+    "Fórmula / criterio": "Promedio y tendencia",
+    "Tipo": "Proceso"
+  },
+  {
+    "Metric_ID": "MET-06",
+    "Indicador": "Energía",
+    "Cómo se mide": "Antes/después: baja/moderada/alta",
+    "Momento": "Cada sesión",
+    "Objetivo de uso": "Observar percepción",
+    "Fórmula / criterio": "Comparación pre/post",
+    "Tipo": "Proceso"
+  },
+  {
+    "Metric_ID": "MET-07",
+    "Indicador": "Continuidad",
+    "Cómo se mide": "Semanas con al menos 1 sesión",
+    "Momento": "Semanal",
+    "Objetivo de uso": "Evaluar mantenimiento",
+    "Fórmula / criterio": "Semanas activas / semanas observadas ×100",
+    "Tipo": "Resultado"
+  },
+  {
+    "Metric_ID": "MET-08",
+    "Indicador": "Intención de continuar",
+    "Cómo se mide": "Escala 1–5",
+    "Momento": "Inicio/final",
+    "Objetivo de uso": "Evaluar sostenibilidad percibida",
+    "Fórmula / criterio": "Cambio pre/post",
+    "Tipo": "Resultado"
+  },
+  {
+    "Metric_ID": "MET-09",
+    "Indicador": "Satisfacción con MUÉVETE AI",
+    "Cómo se mide": "Escala 1–5",
+    "Momento": "Inicio/final",
+    "Objetivo de uso": "Evaluar herramienta",
+    "Fórmula / criterio": "Promedio",
+    "Tipo": "Experiencia"
+  },
+  {
+    "Metric_ID": "MET-10",
+    "Indicador": "Utilidad percibida",
+    "Cómo se mide": "Escala 1–5",
+    "Momento": "Inicio/final",
+    "Objetivo de uso": "Evaluar personalización",
+    "Fórmula / criterio": "Promedio",
+    "Tipo": "Experiencia"
+  }
+]

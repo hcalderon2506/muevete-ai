@@ -1,0 +1,44 @@
+[
+  {
+    "Safety_ID": "SAFE-01",
+    "Situación": "Dolor durante ejercicio",
+    "Respuesta del sistema": "Detener el ejercicio que provoca dolor y recomendar evaluación profesional si persiste o es relevante.",
+    "No hacer": "No diagnosticar ni modificar una lesión con instrucciones clínicas.",
+    "Escalamiento": "Profesional de salud"
+  },
+  {
+    "Safety_ID": "SAFE-02",
+    "Situación": "Lesión conocida",
+    "Respuesta del sistema": "No generar rutina específica para la lesión sin indicación profesional.",
+    "No hacer": "No asumir qué ejercicios son seguros.",
+    "Escalamiento": "Profesional de salud"
+  },
+  {
+    "Safety_ID": "SAFE-03",
+    "Situación": "Síntomas preocupantes",
+    "Respuesta del sistema": "Interrumpir la interacción de ejercicio y recomendar atención médica según gravedad.",
+    "No hacer": "No minimizar síntomas.",
+    "Escalamiento": "Servicio de salud / emergencia si corresponde"
+  },
+  {
+    "Safety_ID": "SAFE-04",
+    "Situación": "Condición médica relevante",
+    "Respuesta del sistema": "Pedir orientación profesional sobre tipo y cantidad de actividad antes de personalizar ejercicios específicos.",
+    "No hacer": "No tratar ni prescribir.",
+    "Escalamiento": "Profesional de salud"
+  },
+  {
+    "Safety_ID": "SAFE-05",
+    "Situación": "Inactividad + deseo de actividad vigorosa",
+    "Respuesta del sistema": "Progresión gradual; considerar orientación profesional antes de actividad vigorosa.",
+    "No hacer": "No pasar directamente a alta intensidad.",
+    "Escalamiento": "Profesional de salud si aplica"
+  },
+  {
+    "Safety_ID": "SAFE-06",
+    "Situación": "Usuario sano sin señales de alerta",
+    "Respuesta del sistema": "Permitir recomendaciones generales de actividad física dentro del alcance del MVP.",
+    "No hacer": "No presentar resultados como garantizados.",
+    "Escalamiento": "Seguimiento del programa"
+  }
+]

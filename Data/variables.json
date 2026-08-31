@@ -1,0 +1,130 @@
+[
+  {
+    "Variable_ID": "VAR-01",
+    "Variable": "Edad",
+    "Valores / categorías": "20–29",
+    "Tipo": "Perfil",
+    "Uso": "Segmentación del público objetivo",
+    "Prioridad": "Media"
+  },
+  {
+    "Variable_ID": "VAR-02",
+    "Variable": "Experiencia",
+    "Valores / categorías": "Principiante / En desarrollo / Activo",
+    "Tipo": "Perfil",
+    "Uso": "Clasificación inicial de intervención",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-03",
+    "Variable": "Frecuencia actual",
+    "Valores / categorías": "0 / 1 / 2–3 / 4+ días/semana",
+    "Tipo": "Conductual",
+    "Uso": "Estimar punto de partida",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-04",
+    "Variable": "Objetivo",
+    "Valores / categorías": "Crear hábito / Condición / Fuerza / Estrés-bienestar / Energía",
+    "Tipo": "Motivacional",
+    "Uso": "Seleccionar tipo de intervención",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-05",
+    "Variable": "Energía",
+    "Valores / categorías": "Baja / Moderada / Alta",
+    "Tipo": "Estado",
+    "Uso": "Ajustar carga del día",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-06",
+    "Variable": "Tiempo disponible",
+    "Valores / categorías": "10 / 15 / 20 / 30 / 45 / 60 min",
+    "Tipo": "Logística",
+    "Uso": "Ajustar duración y estructura",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-07",
+    "Variable": "Preferencia",
+    "Valores / categorías": "Fuerza / Cardio / Movilidad / Funcional",
+    "Tipo": "Preferencia",
+    "Uso": "Aumentar afinidad",
+    "Prioridad": "Media"
+  },
+  {
+    "Variable_ID": "VAR-08",
+    "Variable": "Entorno",
+    "Valores / categorías": "Casa / Gimnasio / Exterior / Sin equipo",
+    "Tipo": "Logística",
+    "Uso": "Seleccionar ejercicios",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-09",
+    "Variable": "Motivación",
+    "Valores / categorías": "Baja / Media / Alta",
+    "Tipo": "Psicológica",
+    "Uso": "Ajustar lenguaje y tamaño de tarea",
+    "Prioridad": "Media"
+  },
+  {
+    "Variable_ID": "VAR-10",
+    "Variable": "Barrera",
+    "Valores / categorías": "Tiempo / Cansancio / Motivación / Aburrimiento / Acceso / Ninguna",
+    "Tipo": "Conductual",
+    "Uso": "Elegir estrategia de adherencia",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-11",
+    "Variable": "Dolor/lesión reportada",
+    "Valores / categorías": "Sí / No",
+    "Tipo": "Seguridad",
+    "Uso": "Activar protocolo de derivación",
+    "Prioridad": "Crítica"
+  },
+  {
+    "Variable_ID": "VAR-12",
+    "Variable": "Condición médica relevante",
+    "Valores / categorías": "Sí / No / No sabe",
+    "Tipo": "Seguridad",
+    "Uso": "Evitar prescripción específica sin evaluación",
+    "Prioridad": "Crítica"
+  },
+  {
+    "Variable_ID": "VAR-13",
+    "Variable": "Satisfacción post-sesión",
+    "Valores / categorías": "1–5",
+    "Tipo": "Seguimiento",
+    "Uso": "Ajustar experiencia",
+    "Prioridad": "Media"
+  },
+  {
+    "Variable_ID": "VAR-14",
+    "Variable": "Dificultad percibida",
+    "Valores / categorías": "1–10",
+    "Tipo": "Seguimiento",
+    "Uso": "Ajustar progresión",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-15",
+    "Variable": "Sesión completada",
+    "Valores / categorías": "Completa / Parcial / No",
+    "Tipo": "Seguimiento",
+    "Uso": "Calcular adherencia",
+    "Prioridad": "Alta"
+  },
+  {
+    "Variable_ID": "VAR-16",
+    "Variable": "Minutos realizados",
+    "Valores / categorías": "0–180+",
+    "Tipo": "Seguimiento",
+    "Uso": "Medir volumen acumulado",
+    "Prioridad": "Alta"
+  }
+]
